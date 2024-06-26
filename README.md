@@ -1,1 +1,1 @@
-# SUIAppleCourse
+# Swift UI cource by Apple
