@@ -1,1 +1,1 @@
-# Swift UI cource by Apple
+# SwiftUI Tutorial by Apple
